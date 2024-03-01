@@ -24,4 +24,4 @@ public class Exercise5 {
 		dogobject.bark();
 	}
 }
-//testing gitedits
+//testing gitedits-tested it and changed it 
